@@ -1,0 +1,27 @@
+_repo: Arius-the-Libyan_42895
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42895-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Kouns, Nathan C. (Nathan Chapman)
+    alias: Kouns, Nathan Chapman
+    birthdate: 1833
+    deathdate: 1890
+    gutenberg_agent_id: '41917'
+    url: http://www.gutenberg.org/2009/agents/41917
+description: ''
+gutenberg_issued: '2013-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arius, -approximately 336 -- Fiction'
+- !lcc 'PS'
+title: 'Arius the Libyan: A Romance of the Primitive Church'
+url: http://www.gutenberg.org/ebooks/42895
